@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/db" android:title="dashboared" android:icon="@drawable/ic_dashboard_black_24dp"/>
+    <item android:id="@+id/account" android:title="Account" android:icon="@drawable/ic_account_circle_black_24dp"/>
+    <item android:id="@+id/setting" android:title="Setting" android:icon="@drawable/ic_settings_black_24dp"/>
+    <item android:id="@+id/hf" android:title="Help &amp; Feedback" android:icon="@drawable/ic_help_black_24dp"/>
+    <item android:id="@+id/about" android:title="About"/>
+
+
+</menu>
